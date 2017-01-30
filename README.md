@@ -8,7 +8,9 @@ D. Replace.
 E. Delete.
 
 The corresponding functions implemented in "C" language are:
+
 A. Print:
+
 1. void print_sll(Sll_t **head);
 
 2. void print_first_node_sll(Sll_t **head);
