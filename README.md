@@ -1,10 +1,16 @@
 # Single Linked List
 This project covers about 50+ functions developed in "C" for following operations.
+
 Basic operations covered are:
+
 A. Print.
+
 B. Locate.
+
 C. insert.
+
 D. Replace.
+
 E. Delete.
 
 The corresponding functions implemented in "C" language are:
